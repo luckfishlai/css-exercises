@@ -1,14 +1,12 @@
-.para,
-.small-para {
-  color: hsl(0, 100%, 50%);
+.para, .para.small-para {
+  color: hsl(0, 100%, 50%)}
+
+ .para {
+  font-size: 22px;;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
-}
-
-.para {
-  font-size: 22px;
 }
 
 .confirm {
